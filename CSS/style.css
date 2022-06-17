@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container{
+    background-color: rgb(237,235,230);
+    
+}
+header{
+    background-color: rgb(237,235,230,);
+}
+.innerheader{
+    background-color: rgb(237,235,230);
+    list-style-type: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.intro{
+    background-color: rgb(237,235,230);
+    border: 1px solid black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#projectheading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-top: 20px rgb(237,235,230) solid;
+}
+
+#about img{
+   height: 12rem;
+   width: 10rem;
+   border-radius: 25rem;
+}
+#projects ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#projects{
+    padding-bottom: 20px;
+    
+}
+#contact{
+    padding: 20px;
+    border-top: 20px rgb(237,235,230) solid;
+}
+footer{
+    background-color: rgb(237,235,230);
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    color: #000;
+}
+a:hover{
+    color:white;
+}
+#projects a:hover{
+    color: rgb(237,235,230);
+}
