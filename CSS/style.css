@@ -6,28 +6,29 @@
 }
 
 .container{
-    background-color: rgb(240, 215, 209);
+    background-color: #faf3ed;
     
 }
 header{
-    background-color: rgb(240,215,209);
+    background-color: #faf3ed;
 }
 .innerheader{
-    background-color: rgb(240, 215, 209);
+    background-color: #faf3ed;
     list-style-type: none;
     font-family:Georgia, 'Times New Roman', Times, serif;
     
 }
 
 .intro{
-    background-color: rgb(240, 215, 209);
-    border: 1px solid black;
+    background-color: #faf3ed;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 #projectheading{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    border-top: 20px rgb(240, 215, 209) solid;
+    border-top: 20px #faf3ed solid;
 }
 
 #about img{
@@ -44,10 +45,10 @@ header{
 }
 #contact{
     padding: 20px;
-    border-top: 20px rgb(240,215,209) solid;
+    border-top: 20px #faf3ed solid;
 }
 footer{
-    background-color: rgb(240, 215, 209);
+    background-color: #faf3ed;
     color: black;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
