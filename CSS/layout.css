@@ -28,7 +28,7 @@ header{
    
 }
 .innerheader{
-    
+    padding-top: 2px;
     position: sticky;
     top: 0px;
 
@@ -37,7 +37,7 @@ header{
 .innerheader ul{
     display: flex;
     justify-content: space-evenly;
-    padding: 0;
+    padding: 0px;
 }
 #about{
     margin: 10px;
