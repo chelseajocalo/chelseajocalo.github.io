@@ -18,9 +18,9 @@ main{
     padding: 20px;
 }
 header{
-    
+    padding-top:10px;
     position: sticky;
-    top:20px;
+    top:0px;
     width: 100%;
     display: block;
     margin: auto;
