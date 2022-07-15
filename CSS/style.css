@@ -32,8 +32,8 @@ header{
 }
 
 #about img{
-   height: 12rem;
-   width: 10rem;
+  width: 300px;
+  height:300px;
    border-radius: 25rem;
 }
 #projects ul{
